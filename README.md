@@ -8,11 +8,12 @@
 
 ---
 
-<p style="font-family: monospace;">
+<p>
 🌺 <strong>About Me</strong> 🌺  <br>
 - 💻 I focus on writing clean and easy-to-understand code.  <br>
 - 🛠️ I love tackling tricky problems and turning ideas into things people can actually use.  <br>
 - 🌟 I’m always looking to learn new things and improve my skills while building cool projects.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
 ---
